@@ -19,7 +19,6 @@
         android:layout_height="80dp"
         app:layout_constraintBottom_toBottomOf="parent">
 
-        <!-- TODO: Update blank fragment layout -->
         <ImageView
             android:id="@+id/image1"
             android:layout_width="match_parent"
